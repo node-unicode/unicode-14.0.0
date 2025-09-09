@@ -1219,6 +1219,10 @@ require('@unicode/unicode-14.0.0/Script/Ugaritic/code-points.js');
 require('@unicode/unicode-14.0.0/Script/Ugaritic/symbols.js');
 require('@unicode/unicode-14.0.0/Script/Ugaritic/regex.js');
 
+require('@unicode/unicode-14.0.0/Script/Unknown/code-points.js');
+require('@unicode/unicode-14.0.0/Script/Unknown/symbols.js');
+require('@unicode/unicode-14.0.0/Script/Unknown/regex.js');
+
 require('@unicode/unicode-14.0.0/Script/Vai/code-points.js');
 require('@unicode/unicode-14.0.0/Script/Vai/symbols.js');
 require('@unicode/unicode-14.0.0/Script/Vai/regex.js');
@@ -1864,6 +1868,10 @@ require('@unicode/unicode-14.0.0/Script_Extensions/Toto/regex.js');
 require('@unicode/unicode-14.0.0/Script_Extensions/Ugaritic/code-points.js');
 require('@unicode/unicode-14.0.0/Script_Extensions/Ugaritic/symbols.js');
 require('@unicode/unicode-14.0.0/Script_Extensions/Ugaritic/regex.js');
+
+require('@unicode/unicode-14.0.0/Script_Extensions/Unknown/code-points.js');
+require('@unicode/unicode-14.0.0/Script_Extensions/Unknown/symbols.js');
+require('@unicode/unicode-14.0.0/Script_Extensions/Unknown/regex.js');
 
 require('@unicode/unicode-14.0.0/Script_Extensions/Vai/code-points.js');
 require('@unicode/unicode-14.0.0/Script_Extensions/Vai/symbols.js');
